@@ -12,7 +12,7 @@ namespace SampleConsoleApp
         {
             Console.Write("This is an example");
             Console.ReadLine();
-            System.Environment.Exit(0);
+            Environment.Exit(0);
         }
     }
 }
